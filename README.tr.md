@@ -26,6 +26,10 @@ Pasifik mercan resiflerinin deniz ısı dalgalarına ve emisyon politikalarına 
 - Saha ölçümlerine göre kalibre edilmiş, hata 13,0'dan 5,2 yüzde puana düşürülmüştür
 - Saf JavaScript, HTML5 Canvas ve Chart.js; iki dilli arayüz, tekrarlanabilir çalıştırmalar
 
+### Diğer Projeler
+
+**[Sepetix Analitik](https://github.com/MAKU-VBA-GBT-II/group-a)** (takım projesi): Rollerin dönüşümlü üstlenildiği, GitHub iş akışıyla (issue, pull request, kod incelemesi) yürütülen beş kişilik veri şirketi simülasyonu. Python, pandas, matplotlib.
+
 <!-- hekaton-hybrid-root public yapılırsa bu bölümü aç:
 ### [Tendora](https://github.com/tugbatuanakaygisiz-web/hekaton-hybrid-root)
 

@@ -26,6 +26,10 @@ An interactive simulation of how Pacific coral reefs respond to marine heatwaves
 - Calibrated against field surveys, reducing error from 13.0 to 5.2 percentage points
 - Vanilla JavaScript, HTML5 Canvas and Chart.js; bilingual interface, reproducible runs
 
+### Other Projects
+
+**[Sepetix Analitik](https://github.com/MAKU-VBA-GBT-II/group-a)** (team project): a five-person data company simulation with rotating roles and a full GitHub workflow (issues, pull requests, code review). Python, pandas, matplotlib.
+
 <!-- Uncomment if hekaton-hybrid-root is made public:
 ### [Tendora](https://github.com/tugbatuanakaygisiz-web/hekaton-hybrid-root)
 
