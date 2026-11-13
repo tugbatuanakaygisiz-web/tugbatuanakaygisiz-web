@@ -48,7 +48,7 @@ I build models from real-world datasets, validate them against observed measurem
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MAKU-VBA-GBT-II/group-a">Sepetix Analitik</a></h3>
       <img src="https://img.shields.io/badge/Team%20Project-2EA44F?style=flat-square" alt="Team project" />
-      <p>Five-person simulation of an e-commerce data company. Roles rotate during the term, so I work across project data generation, analysis and data quality.</p>
+      <p>Five-person simulation of an e-commerce data company. Roles rotate during the term, so I work across data generation, analysis and data quality.</p>
       <ul>
         <li>E-commerce data simulation and analysis</li>
         <li>Visual reports with matplotlib</li>
