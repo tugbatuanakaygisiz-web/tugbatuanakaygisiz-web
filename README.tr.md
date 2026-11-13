@@ -48,7 +48,7 @@ Gerçek veri setlerinden modeller oluşturuyor, bu modelleri gözlem verileriyle
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MAKU-VBA-GBT-II/group-a">Sepetix Analitik</a></h3>
       <img src="https://img.shields.io/badge/Tak%C4%B1m%20Projesi-2EA44F?style=flat-square" alt="Takım projesi" />
-      <p>Beş kişilik ekiple yürütülen e-ticaret veri şirketi simülasyonu. Roller dönem boyunca değiştiği için proje yönetimi, veri üretimi, analiz ve veri kalitesi aşamalarının tümünde görev alıyorum.</p>
+      <p>Beş kişilik ekiple yürütülen e-ticaret veri şirketi simülasyonu. Roller dönem boyunca değiştiği için veri üretimi, analiz ve veri kalitesi aşamalarının tümünde görev alıyorum.</p>
       <ul>
         <li>E-ticaret verisi simülasyonu ve analizi</li>
         <li>matplotlib ile görsel raporlar</li>
